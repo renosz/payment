@@ -1,2 +1,4 @@
-# payment
-SC PHP Payment bots example
+# LineTiny_Polosan
+Script LineTinySDK versi medantechno.com
+
+Script polosan dengan 1 contoh keyword
